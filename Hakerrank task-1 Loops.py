@@ -3,9 +3,12 @@ if _name_ == '_main_':
     n = int(input().strip())
     for i in range(n):
         print(i**2)
-output
-0
-1
-4
-9
-16
+        
+# input(stdin)
+# 5
+# output
+# 0
+# 1
+# 4
+# 9
+# 16
